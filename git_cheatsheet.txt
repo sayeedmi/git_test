@@ -1,0 +1,4 @@
+Command related to a remote repository:
+	1. git clone <SSH URL>
+	2. git push OR git push origin main
+
