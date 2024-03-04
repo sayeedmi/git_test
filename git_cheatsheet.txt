@@ -2,3 +2,7 @@ Command related to a remote repository:
 	1. git clone <SSH URL>
 	2. git push OR git push origin main
 
+Command related to the workflow:
+	1. git add .
+	2. git commit -m "A message describing what you have done to make this snapshot different"
+
